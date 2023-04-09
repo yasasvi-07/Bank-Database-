@@ -1,4 +1,4 @@
-# Bank-Database-management-system
+# Bank-Database-Management-System
 
 >This SQL code creates a bank database with four tables: Customers, Accounts, Transactions, and Banks. 
 >The Customers table stores customer personal information such as customer ID, first name, last name, address, and phone number. 
